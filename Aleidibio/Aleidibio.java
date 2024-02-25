@@ -5,11 +5,6 @@ public class Aleidibio {
         int n1 = scanner.nextInt();
         int n2 = scanner.nextInt();
         int n3 = scanner.nextInt();
-
         System.out.println(n3 - (n1 + n2));
-
-
     }
-
-
 }
